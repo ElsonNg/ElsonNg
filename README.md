@@ -1,4 +1,4 @@
-###  Hi, I'm Ng Yuan Da Elson!
+#  Hi, I'm Ng Yuan Da Elson! 👋
 
 I am a full-stack enthusiast who came from a background in game development. I am currently freelancing as a software developer whilst studying for a degree in Computer Science at Nanyang Technological University (NTU), Singapore.
 My current obsessions include designing reusable UI components like ShadCN and using TypeScript for the best DX. 
