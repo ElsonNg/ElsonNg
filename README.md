@@ -2,7 +2,6 @@
 
 Always looking to design good software with a keen attention to optimizations and scalability of the project.
 
-🔭 Working on open-sourced projects!
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
