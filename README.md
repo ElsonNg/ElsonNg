@@ -2,6 +2,7 @@
 
 Always looking to design good software with a keen attention to optimizations and scalability of the project.
 
+Looking at distributed systems and new AI tech currently!
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
