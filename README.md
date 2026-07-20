@@ -3,6 +3,8 @@
 Always looking to design good software with a keen attention to optimizations and scalability of the project.
 
 Looking at distributed systems and new AI tech currently!
+
+Check out out my portfolio [here](https://elsonng.com/)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
